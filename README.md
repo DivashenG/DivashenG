@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivashenG
 
-<a href="https://app.daily.dev/Divashen"><img src="https://github.com/divasheng/divasheng/blob/master/devcard.svg" width="400" alt="Divashen Govender's Dev Card"/></a>
+<a href="https://app.daily.dev/Divashen"><img src="https://github.com/DivashenG/DivashenG/blob/main/devcard.svg" width="400" alt="Divashen Govender's Dev Card"/></a>
 
 
 I am an astrophysicist turned software engineer with experience primarily in Ruby on Rails interspersed with Java here and there. 
