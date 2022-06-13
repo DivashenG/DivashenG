@@ -2,6 +2,9 @@
 
 <a href="https://app.daily.dev/Divashen"><img src="https://github.com/DivashenG/DivashenG/blob/main/devcard.svg" width="400" alt="Divashen Govender's Dev Card"/></a>
 
+[![Divashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=divasheng)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 I am an astrophysicist turned software engineer with experience primarily in Ruby on Rails interspersed with Java here and there. 
 
