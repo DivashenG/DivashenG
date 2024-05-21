@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, I'm Divashen Govender 👋
 
 <div align="left">
   <a href="https://app.daily.dev/divashen">
@@ -9,9 +9,9 @@
   </a>
 </div>
 
-## I am Divashen Govender
 I am an astrophysicist turned software engineer with experience primarily in Ruby on Rails interspersed with Java here and there. 
 
 My lifelong love affair with space and science was ignited early on and has cultivated a passion for learning and problem solving within me. Ultimately,   this passion serves me well today in an industry which demands constant learning and solving problems (no matter how little or large the problem).
 
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divasheng&theme=holi)](https://github.com/divasheng/github-readme-stats) --->
 
