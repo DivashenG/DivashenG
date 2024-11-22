@@ -1,4 +1,4 @@
-# Hi, I'm Divashen Govender 👋
+# Hi 👋
 <div align="center">
   <a href="https://app.daily.dev/divashen">
   <img src="https://api.daily.dev/devcards/v2/HYPV6cM7RpIo9bmpTYm8z.png?type=wide&r=i0w" 
