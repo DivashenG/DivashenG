@@ -21,13 +21,15 @@ Ultimately, this passion serves me well today in an industry which demands const
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divasheng&theme=holi)](https://github.com/divasheng/github-readme-stats) --->
 
-
-<a href="https://github.com/devxb/gitanimals">
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/DivashenG?pet-id=658949841633268671"
-    width="500"
+    width="350"
     height="300"
+    alt="My Git Pet"
   />
-</a>
+  </a>
+</p>
   
 
