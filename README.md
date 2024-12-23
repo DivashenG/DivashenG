@@ -19,7 +19,7 @@ Ultimately, this passion serves me well today in an industry which demands const
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/DivashenG?pet-id=658949841633268671"
-    width="600"
+    width="300"
     height="120"
   />
 </a>
