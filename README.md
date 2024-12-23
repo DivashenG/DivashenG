@@ -13,3 +13,13 @@ My lifelong love affair with space and science was ignited early on and has cult
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divasheng&theme=holi)](https://github.com/divasheng/github-readme-stats) --->
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/DivashenG?pet-id=658949841633268671"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
