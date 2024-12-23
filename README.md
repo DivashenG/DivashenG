@@ -7,7 +7,13 @@
   </a>
 </div>
 
-# Hi, I'm Divashen Govender 👋
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hi, I'm Divashen 👋</h1>
+    </summary>
+  </ul>
+</div>
 
 My lifelong love affair with space and science was ignited early on and has cultivated a passion for learning and problem solving within me.
 
@@ -19,8 +25,8 @@ Ultimately, this passion serves me well today in an industry which demands const
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/DivashenG?pet-id=658949841633268671"
-    width="300"
-    height="120"
+    width="500"
+    height="300"
   />
 </a>
   
