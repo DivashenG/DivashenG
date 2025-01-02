@@ -15,6 +15,8 @@
   </ul>
 </div>
 
+I'm an astrophysicist turned software engineer, experienced in Ruby on Rails.
+
 My lifelong love affair with space and science was ignited early on and has cultivated a passion for learning and problem solving within me.
 
 Ultimately, this passion serves me well today in an industry which demands constant learning and solving problems (no matter how little or large the problem).
