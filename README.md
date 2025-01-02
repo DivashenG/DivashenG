@@ -15,11 +15,11 @@
   </ul>
 </div>
 
-I'm an astrophysicist turned software engineer, experienced in Ruby on Rails.
+I'm an astrophysicist turned software engineer with expertise in Ruby on Rails.
 
-My lifelong love affair with space and science was ignited early on and has cultivated a passion for learning and problem solving within me.
+My lifelong fascination with space and science sparked an enduring passion for learning and problem-solving. 
 
-Ultimately, this passion serves me well today in an industry which demands constant learning and solving problems (no matter how little or large the problem).
+Today, this passion serves me well in a dynamic industry that thrives on innovation and continuous learning. Whether tackling small bugs or addressing large-scale challenges, I’m driven by the thrill of solving problems and building impactful solutions.
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divasheng&theme=holi)](https://github.com/divasheng/github-readme-stats) --->
 
