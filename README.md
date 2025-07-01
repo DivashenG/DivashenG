@@ -26,7 +26,7 @@ Today, this passion serves me well in a dynamic industry that thrives on innovat
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/DivashenG?pet-id=658949841633268671"
+    src="https://render.gitanimals.org/lines/DivashenG?pet-id=658949841633268662"
     width="350"
     height="300"
     alt="My Git Pet"
